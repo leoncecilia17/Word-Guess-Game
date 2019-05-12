@@ -12,3 +12,7 @@ The rules are simple. If you guess the word correctly before you run out of gues
 
 Good Luck!!! 
 
+Citation: 
+I used the following document to help me structure my game: 
+https://nostarch.com/download/JS4K_ch7.pdf
+
